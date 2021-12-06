@@ -1,0 +1,4 @@
+/mongo-volume
+/src/vendor
+/src/composer.lock
+/src/package-lock.json

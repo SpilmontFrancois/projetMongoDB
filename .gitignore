@@ -1,3 +1,2 @@
-/mongo-volume
-/src/vendor
-/src/node_modules
+mongo-volume
+node_modules

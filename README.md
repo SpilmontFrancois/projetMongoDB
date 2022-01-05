@@ -10,7 +10,7 @@
 
 - `npm start`
 
-- Ouvrir index.html dans un navigateur
+- Ouvrir src/index.html dans un navigateur
 
 - Cliquer sur le bouton "Actualiser les données"
 

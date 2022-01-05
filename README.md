@@ -2,10 +2,16 @@
 
 ## François SPILMONT - LP2 CIASIE
 
-Lancer le projet :
+### Installation & Lancement
 
-- docker-compose up
+- `npm install`
 
-- npm start
+- `docker-compose up`
 
-- ouvrir index.html sur un navigateur
+- `npm start`
+
+- Ouvrir index.html dans un navigateur
+
+- Cliquer sur le bouton "Actualiser les données"
+
+Si une erreur survient sur le serveur, c'est que le docker n'est pas lancé complètement.

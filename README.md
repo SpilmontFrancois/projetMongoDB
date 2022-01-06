@@ -1,6 +1,6 @@
 # projetMongoDB
 
-## François SPILMONT - LP2 CIASIE
+## François SPILMONT - Lucas SAKER - LP2 CIASIE
 
 ### Installation & Lancement
 

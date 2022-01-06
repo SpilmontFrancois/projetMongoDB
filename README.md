@@ -14,4 +14,4 @@
 
 - Cliquer sur le bouton "Actualiser les données"
 
-Si une erreur survient sur le serveur, c'est que le docker n'est pas lancé complètement.
+Si une erreur survient sur le serveur peu après le démarrage, c'est que le docker n'est pas lancé complètement.

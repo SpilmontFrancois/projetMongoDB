@@ -32,7 +32,6 @@
     <script>
         // Ajout du listener pour actualiser les données de l'API
         document.getElementById('refreshData').addEventListener('click', function (e) {
-            console.log('click');
             e.preventDefault()
             fetch('http://localhost:8080/refreshdata')
                 .then(function (response) {
